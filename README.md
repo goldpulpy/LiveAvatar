@@ -18,9 +18,10 @@
 <a href="#" style="color: inherit;">Shijie Huang</a><sup>2</sup> ·
 <a href="#" style="color: inherit;">Qijun Gan</a><sup>4</sup> ·
 <a href="#" style="color: inherit;">Lin Liu</a><sup>1</sup> ·
+<a href="#" style="color: inherit;">Ruihua Huang</a><sup>2,*</sup> ·
 <a href="#" style="color: inherit;">Sirui Zhao</a><sup>1,*</sup> ·
 <a href="http://staff.ustc.edu.cn/~cheneh/" style="color: inherit;">Enhong Chen</a><sup>1,*</sup> ·
-<a href="https://openreview.net/profile?id=%7EJiaming_Liu7" style="color: inherit;">Jiaming Liu</a><sup>2,‡</sup> ·
+<a href="https://openreview.net/profile?id=%7EJiaming_Liu7" style="color: inherit;">Jiaming Liu</a><sup>2,*,‡</sup> ·
 <a href="https://sites.google.com/view/stevenhoi/" style="color: inherit;">Steven Hoi</a><sup>2</sup>
 </p>
 
